@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini-Projeto</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+
+    <div class="container">
+
+        <div class="welcome">
+            <h1>Bem-Vindo!</h1>
+        </div>
+
+        <!-- Crição de fases semanais -->
+        <div class="week">
+            <h2 id="fase">Semana 1</h2>
+            <button id="btnNovaSemana">Iniciar Nova Semana</button>
+        </div>
+
+        <div class="painel">
+            <p>Pontos: <span id="pontos">0</span></p>
+            <p>Nível: <span id="nivel">1</span></p>
+        </div>
+
+        <!-- Barra de Progresso -->
+        <div class="bar_progress">
+            <p>Progresso da Semana</p>
+            <progress id="barra" value="0" max="50"></progress>
+        </div>
+
+        <!-- Botões -->
+        <div class="botoes">
+            <!-- Botão entrega no prazo -->
+            <button id="btnPrazo">Entrega no Prazo</button>
+
+            <!-- Botão entrega atrasada -->
+            <button id="btnAtraso">Entrega Atrasada</button>
+
+            <!-- Botão missão extra -->
+            <p>Complete uma missão extra para recuperar pontos perdidos!</p>
+            <button id="btnMissaoExtra">Missão extra</button>
+        </div>
+
+        <div class="mensagem">
+            <p id="mensagemSistema">Complete tarefas no prazo para subir de nível!</p>
+        </div>
+    </div>
+
+
+    <!-- Script sempre antes de fechar o body -->
+    <script src="js/script.js" defer></script>
+</body>
+
+</html>
