@@ -1,36 +1,36 @@
-# Sistema de Gamificação
+# 🎮 Gamification System
 
-Projeto desenvolvido em ambiente acadêmico com base em conceitos de gamificação, aplicando mecânicas como pontuação, progresso e motivação do usuário para melhorar o engajamento de alunos em atividades escolares.
+Front-End project developed based on gamification concepts, applying elements such as scoring, progress tracking and user motivation to improve engagement in learning activities.
 
-## O que é gamificação?
+## 🧠 What is Gamification?
 
-Gamificação é o uso de elementos de jogos em contextos não relacionados a jogos, com o objetivo de aumentar o engajamento e motivação dos usuários.
+Gamification is the use of game elements in non-game contexts to increase user engagement and motivation.
 
-## Preview do Projeto
+## 📸 Project Preview
 
-![Preview do projeto](img/preview.png)
+![Project Preview](img/preview.png)
 
-## Tecnologias utilizadas
+## 🛠️ Technologies
 
 - HTML
 - CSS
 - JavaScript
 
-## Objetivo do projeto
+## ⚙️ Features
 
-Aplicar conceitos de gamificação para aumentar o engajamento dos alunos em atividades escolares utilizando um sistema com elementos de recompensas, feedback e progressão.
+- Scoring system
+- User feedback
+- Gamification elements (rewards and motivation)
+- Interactive interface
 
-## Funcionalidades
+## 🎯 Project Goal
 
-- Sistema de pontuação
-- Feedback ao usuário
-- Elementos de motivação (gamificação)
-- Interface interativa
+Apply gamification concepts to enhance user engagement through a system based on rewards, feedback and progression.
 
-## Contexto
+## 📚 Context
 
-Projeto desenvolvido como atividade acadêmica, com foco na aplicação prática de conceitos de gamificação.
+Academic project focused on the practical application of gamification concepts.
 
-## Autor
+## 👨‍💻 Author
 
-- Luis Francisco
+Luis Francisco
