@@ -18,10 +18,10 @@ Gamification is the use of game elements in non-game contexts to increase user e
 
 ## ⚙️ Features
 
-- Scoring system
-- User feedback
-- Gamification elements (rewards and motivation)
-- Interactive interface
+- Score tracking system  
+- Real-time user feedback  
+- Reward-based interaction  
+- Progress indicators  
 
 ## 🎯 Project Goal
 
